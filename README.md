@@ -22,11 +22,11 @@ Feel free to reach out for collaborations or opportunities!
 
 ## 🧰 Languages and Tools
 
-- **Programming Languages:** Java, PHP, JavaScript, Python, SQL, C, HTML, CSS
-- **Frameworks & Tools:** Symfony, Laravel, React, Bootstrap, Angular, JavaFX, MySQL, Docker
-- **Databases:** MySQL, Oracle, PDO
-- **Development Tools:** Git, GitHub, Visual Studio, IntelliJ IDEA, MySQL Workbench, VMware Workstation
-- **Other Skills:** Power BI, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator
+- **Programming Languages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS.
+- **Frameworks & Tools:** Symfony, Laravel, React, Node.js, AndroidStudio, Bootstrap, JavaFX, Flutter, Docker, Dash.
+- **Databases:** MySQL, Oracle, PL/SQL, Firebase (NoSQL).
+- **Development Tools:** Visual Studio, IntelliJ IDEA, Android Studio, Git, GitHub, MySQL Workbench, Oracle Database, VMware Workstation, StarUML.
+- **Other Skills:** Power BI, Word, Excel, Access, PowerPoint, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator.
 
 ---
 
