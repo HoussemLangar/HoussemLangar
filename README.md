@@ -2,7 +2,7 @@
 ---
 ## 🧑🏻‍💻 **Houssem Langar**  
 
-Business Computing Student | Full-Stack Developer
+Full-Stack Developer
 
 ***📊 [My Projects](https://github.com//HoussemLangar?tab=repositories)***
 
