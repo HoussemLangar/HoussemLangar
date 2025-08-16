@@ -12,11 +12,20 @@ Full-Stack Developer
 
 ## 👨‍💻 About Me
 
-I am a passionate computer science student with a strong foundation in software development and web technologies. I am always eager to learn new programming languages and tools, with a focus on delivering efficient and creative solutions. I’m looking to contribute to challenging projects where I can make a meaningful impact in the tech industry.
+I am a passionate **Full-Stack Developer** with a strong foundation in web, mobile, and cloud technologies.  
+I recently graduated in **Business Computing (E-Business)** with honors.  
 
-Feel free to reach out for collaborations or opportunities!
+🚀 I am highly motivated to work on **innovative projects**, especially in the areas of:  
+- Web & Mobile Development  
+- Cloud Computing & DevOps  
+- Data Analytics & Visualization  
+
+I am always eager to learn new programming languages and tools, with a focus on delivering efficient and creative solutions.  
+Feel free to reach out for collaborations or opportunities! 
 
 [![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/houssem-langar)
+[![Upwork Button](https://img.shields.io/badge/Upwork-Hire%20Me-brightgreen?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01951d35f5101f41b1)  
+
 ---
 
 
