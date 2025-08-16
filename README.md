@@ -65,6 +65,6 @@ Here are some of my main projects (more on my [repositories](https://github.com/
 - 🛒 **[E-Commerce Marketplace](https://github.com/HoussemLangar/SoukNet)**  
   *React, Node.js, SEO Optimization, Dashboard with Power BI*  
 
-
+---
 
 👾 More tools and projects coming soon!
