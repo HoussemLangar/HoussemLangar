@@ -22,13 +22,40 @@ Feel free to reach out for collaborations or opportunities!
 
 ## 🧰 Languages and Tools
 
-- **Programming Languages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS.
-- **Frameworks & Tools:** Symfony, Laravel, React, Node.js, AndroidStudio, Bootstrap, JavaFX, Flutter, Docker, Dash.
-- **Databases:** MySQL, Oracle, PL/SQL, Firebase (NoSQL).
-- **Development Tools:** Visual Studio, IntelliJ IDEA, Android Studio, Git, GitHub, MySQL Workbench, Oracle Database, VMware Workstation, StarUML.
-- **Other Skills:** Power BI, Word, Excel, Access, PowerPoint, Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator.
+- **Programming Languages:** Java, PHP, JavaScript, Python, SQL, PL/SQL, C, HTML, CSS  
+- **Frameworks & Tools:** Symfony, Laravel, React, Node.js, Angular, Bootstrap, JavaFX, Flutter, Docker, Dash, Spring Boot, Kubernetes  
+- **Databases:** MySQL, PostgreSQL, Oracle, Firebase (NoSQL)  
+- **Development Tools:** Visual Studio, IntelliJ IDEA, Android Studio, Git, GitHub, VMware, StarUML  
+- **Analytics & Design:** Power BI, Adobe Photoshop, Illustrator, Premiere Pro  
+- **OS:** Windows, Ubuntu, CentOS  
 
 ---
+
+## 🌟 Featured Projects  
+
+Here are some of my main projects (more on my [repositories](https://github.com/HoussemLangar?tab=repositories)):  
+
+- 📡 **[WelcomeSMS – Real-time Geolocation & Marketing Platform](https://github.com/HoussemLangar/WelcomeSMS)**  
+  *Kafka, Spring Boot, PostgreSQL, Angular, Docker, Kubernetes, Grafana*  
+
+- 🛠 **[IT Tools Stock Management System](https://github.com/HoussemLangar/MagasinOutilsInformatique)**  
+  *Symfony, MySQL, Power BI, Docker, Barcode Integration*  
+
+- 📝 **[Internal Request Management App](https://github.com/HoussemLangar/InternalRequestApp)**  
+  *Laravel, Blade, PHP, JavaScript, CSS*  
+
+- 📊 **[Sports Performance Visualization](https://github.com/HoussemLangar/ExtractionEtAnalyseDonneesNBA2024)**  
+  *Dash, Plotly, Pandas, NumPy, BeautifulSoup*  
+
+- 🎓 **[Quiz Management Platform](https://github.com/HoussemLangar/GenerateurQuiz)**  
+  *JavaFX, JDBC, PDF Generation*  
+
+- 📱 **[Attendance Management Mobile App](https://github.com/HoussemLangar/GestionAbsenceEssect)**  
+  *Android Studio, Firebase, Notifications, Google Play Deployment*  
+
+- 🛒 **[E-Commerce Marketplace](https://github.com/HoussemLangar/SoukNet)**  
+  *React, Node.js, SEO Optimization, Dashboard with Power BI*  
+
 
 
 👾 More tools and projects coming soon!
