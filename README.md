@@ -89,6 +89,9 @@ Feel free to reach out for collaborations or opportunities!
 ## 🌟 Featured Projects  
 
 Here are some of my main projects (more on my [repositories](https://github.com/HoussemLangar?tab=repositories)):  
+- 🏥 **[SANTÉA – Digital Health Platform](https://github.com/HoussemLangar/Esprit-PIDEV-3A41-2026-SANTEA)**  
+  *Symfony 7 · JavaFX · MariaDB Galera Cluster · ProxySQL · Docker · Jenkins CI/CD · Prometheus · Grafana · ELK Stack · Stripe · Jitsi · OpenAI API*  
+  Full-stack healthcare platform combining a Symfony 7 web app and a JavaFX desktop client, backed by a 3-node MariaDB Galera cluster with ProxySQL load balancing. Features AI-powered medical document analysis, nutrition & sport plan generation, video teleconsultation, real-time messaging, connected pharmacy, and a complete observability stack (Prometheus + Grafana + ELK).
 
 - 📡 **[WelcomeSMS – Real-time Geolocation & Marketing Platform](https://github.com/HoussemLangar/WelcomeSMS)**  
   *Kafka, Spring Boot, PostgreSQL, Angular, Docker, Kubernetes, Grafana*  
