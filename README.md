@@ -2,7 +2,7 @@
 ---
 ## 🧑🏻‍💻 **Houssem LANGAR**  
 
-Full-Stack Developer | Engineering Student
+DevOps Engineer — Kubernetes, Docker, GitLab CI/CD, OpenStack, Ansible | Élève-Ingénieur Génie Informatique — Spéc. Cybersecurity & Cloud
 
 ***📊 [My Projects](https://github.com//HoussemLangar?tab=repositories)***
 
